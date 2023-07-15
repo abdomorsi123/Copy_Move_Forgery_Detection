@@ -1,0 +1,1 @@
+python detect.py --source data/rand_test/ --weights runs/train/yolov7_custom_v3/weights/best.pt --conf 0.25 --img-size 640 --save-txt --iou-thres 0.5 --name zz
