@@ -2,7 +2,7 @@
 
 This folder contains the scripts, datasets, and trained models related to the object detection method for copy move forgery detection.
 
-![Example of CMFD using YOLO v7](https://github.com/abdomorsi123/Copy_Move_Forgery_Detection/Detection-YOLO/runs/detect/test/0_000000040813.jpg)
+![Example of CMFD using YOLO v7](https://github.com/abdomorsi123/Copy_Move_Forgery_Detection/Detection_YOLO/runs/detect/test/0_000000040813.jpg)
 
 ## Dataset
 
